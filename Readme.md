@@ -16,3 +16,6 @@
 ## Hash Tables (Key, Value)
 - Hash function: Adress -> Buckets
 - Metodos: Insert, Search, delete
+## Linked List
+- Single linked
+    - Methods: ```prepend```, ```append```, ```lookup/search```, ```insert```, ```delete```
